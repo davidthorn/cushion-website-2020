@@ -13,11 +13,15 @@ source: http://mariela.webflow.io/
 Colors:
 
 Text: #5f4d5d
+
 Links: #5f4d5d
+
 Prices: #b0b0b0
+
 Light: #fff
 
 Primary: #c9adc6
+
 Primary-1: #ceb3cb
 
 Secondary: #d6bbd3
