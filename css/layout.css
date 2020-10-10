@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Cormorant Garamond, sans-serif;
+}
+
+.primary {
+    color: #b08ead;
+}
