@@ -1,0 +1,64 @@
+.section-3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 80px 0 200px 0;
+
+}
+
+.section-3-inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+
+.section-3-title, .section-3-button-text {
+    font-family: Roboto;
+    color: #b99bb6;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.section-3-title {
+    font-size: 0.8em;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.section-3-body {
+    color: black;
+    font-size: 1.6em;
+    width: 60%;
+    text-align: center;
+}
+
+.section-3-button {
+    border: 1px solid #b99bb6;
+    border-radius: 20px;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.section-3-button-text {
+    padding: 10px 30px 10px 30px;
+    font-size: 0.7em;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.section-3-button:hover {
+    background-color: #b99bb6;
+    color: white;
+}
+
+.section-3-button-text:hover {
+    color: white;
+}
